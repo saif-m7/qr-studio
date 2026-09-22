@@ -1,16 +1,26 @@
-# React + Vite
+# QR Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**QR Studio** is a modern, professional QR Code Generator built with React.
 
-Currently, two official plugins are available:
+It allows users to quickly create QR codes for different types of information such as URLs, text, phone numbers, emails, Wi-Fi networks, contacts, locations, and UPI payments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application is designed as a fast, responsive, frontend-only tool where QR codes can be generated, customized, downloaded, and shared directly from the browser.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Generate QR codes for multiple data types
+* Customize QR appearance
+* Preview QR codes instantly
+* Download QR codes in multiple formats
+* Copy and share QR codes
+* Save QR generation history locally
+* Responsive design for desktop and mobile
+* No account or backend required
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**React · Vite · JavaScript · Tailwind CSS**
+
+## Project Status
+
+🚧 **Currently in development**
